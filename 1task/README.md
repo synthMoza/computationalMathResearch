@@ -11,4 +11,5 @@ Calculate the first derivative of the given function with first and second order
 ![second derivative](python/second_derivative.png)
 
 **Deviation-step dependency:**
+
 ![deviation](python/deviation.png)
